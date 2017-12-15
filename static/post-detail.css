@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 2rem;
+}
+
+.content__title{
+    align-self: center;
+}
+.content__content{
+    align-self: center;
+    margin-top: 32px;
+}
